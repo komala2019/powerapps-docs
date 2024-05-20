@@ -1,3 +1,4 @@
+tile : "Performance Insights feature is no more supported"
 ---
 title: "Overview of performance insights in Power Apps | MicrosoftDocs"
 description: Understand performance insights. 
